@@ -25,10 +25,11 @@ As a former nurse, I love to help individual patients to improve their health co
 - Statistical Consultant, Graduate Quantitative Methods Center (GradQuant) (_October 2019 - June 2020_)
 - Emergency Room Registered Nurse, Hyundai Asan Medical Center (_June 2013 - July 2014_)
 
-### Talks & Lectures
+### Invited Talks / Academic Services
 - *Exponentially Convergent Algorithms for Supervised Matrix Factorization*, Institute for Mathematical and Statistical Innovation, Chicago, Dec 2023
 - *Supervised Dictionary Learning: Algorithms and Applications*, International Society for Business and Industrial Statistics, Statistics and Data Science in Business and Industry, University of Naples Federico II, Italy, June 20-21, 2022
-- *Identification of genes related to pancreatic cancer through targeted sequencing data analysis*, IEEE International Conference on Bioinformatics and Biomedicine, Dec 15, 2016 
+- *Identification of genes related to pancreatic cancer through targeted sequencing data analysis*, IEEE International Conference on Bioinformatics and Biomedicine, Dec 15, 2016
+- Reviewer for NeurIPS 2024
 			
 ### Awards
 - ICML 2024 Financial Aid (ICML, 2024)
