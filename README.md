@@ -8,10 +8,10 @@ As a former nurse, I love to help individual patients to improve their health co
 
 
 ### Education
-- (Present) Ph.D., Statistics | University of Wisconsin-Madison
-- Formal Doctoral student., Applied Statistics | University of California, Riverside
-- M.S., Statistics | Seoul National University
-- B.S., Statistics and Nursing (Cum Laude) | Seoul National University
+- (Present) Ph.D., Statistics, University of Wisconsin-Madison
+- Formal Doctoral student., Applied Statistics, University of California, Riverside
+- M.S., Statistics, Seoul National University
+- B.S., Statistics and Nursing (Cum Laude), Seoul National University
 
 ### Publications
 1. J. Lee, J. Huling, and G. Chen, *An effective framework for estimating individualized treatment rules*, (To appear in NeurIPS 2024)
@@ -21,9 +21,9 @@ As a former nurse, I love to help individual patients to improve their health co
 5. J. Lee, S. Lee, J. Jang, and T. Park, *"Exact association test for small size sequencing data*", BMC medical genomics 2018. ([Paper](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0344-z))
 
 ### Work Experience
-- Biostatistics Intern @ Biogen (_June 2024 - August 2024_)
-- Statistical Consultant @ Graduate Quantitative Methods Center (GradQuant) (_October 2019 - June 2020_)
-- Emergency Room Registered Nurse @ Hyundai Asan Medical Center (_June 2013 - July 2014_)
+- Biostatistics Intern, Biogen (_June 2024 - August 2024_)
+- Statistical Consultant, Graduate Quantitative Methods Center (GradQuant) (_October 2019 - June 2020_)
+- Emergency Room Registered Nurse, Hyundai Asan Medical Center (_June 2013 - July 2014_)
 
 ### Talks & Lectures
 - *Exponentially Convergent Algorithms for Supervised Matrix Factorization*, Institute for Mathematical and Statistical Innovation, Chicago, Dec 2023
