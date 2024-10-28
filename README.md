@@ -30,6 +30,7 @@ As a former nurse, I love to help individual patients to improve their health co
 - *Supervised Dictionary Learning: Algorithms and Applications*, International Society for Business and Industrial Statistics, Statistics and Data Science in Business and Industry, University of Naples Federico II, Italy, June 20-21, 2022
 - *Identification of genes related to pancreatic cancer through targeted sequencing data analysis*, IEEE International Conference on Bioinformatics and Biomedicine, Dec 15, 2016
 - Reviewer for NeurIPS 2024
+- Invited Reviewer for AISTAT 2025
 			
 ### Awards
 - ICML 2024 Financial Aid (ICML, 2024)
