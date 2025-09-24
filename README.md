@@ -14,7 +14,7 @@ As a former nurse, I love to help individual patients to improve their health co
 - B.S., Statistics and Nursing (Cum Laude), Seoul National University
 
 ### Publications
-1. J. Lee, J. Huling, and G. Chen, *An effective framework for estimating individualized treatment rules*, (To appear in NeurIPS 2024)
+1. J. Lee, J. Huling, and G. Chen, *An effective framework for estimating individualized treatment rules*, NeurIPS 2024. ([Paper](https://openreview.net/pdf?id=G7L65B2P0y), [GitHub](https://github.com/ljw9510/effective-ITR))
 2. J. Lee, H. Lyu, and W. Yao, *Supervised Matrix Factorization: Local Landscape Analysis and Applications*, ICML 2024. ([Paper](https://proceedings.mlr.press/v235/lee24p.html), [GitHub](https://github.com/ljw9510/SMF))
 3. J. Lee, H. Lyu, and W. Yao, *Exponentially convergent algorithms for supervised matrix factorization*, NeurIPS 2023. ([Paper](https://papers.nips.cc/paper_files/paper/2023/file/f2c80b3c9cf8102d38c4b21af25d9740-Paper-Conference.pdf), [GitHub](https://github.com/ljw9510/SMF))
 4. J. Lee, H. Lyu, and W. Yao, *Interpretable Feature Extraction by Supervised Dictionary Learning for Identification of Cancer-Associated Gene Clusters*, ICML Workshop on Computational Biology 2023. ([Paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper155.pdf), [Poster](https://1drv.ms/b/s!AvD9GmQQHxezkP4b4AdIAFtxKmZOCw?e=bQxdz1))
