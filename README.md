@@ -19,7 +19,7 @@ I am interested in the fields of causal inference and machine learning. More spe
 5. J. Lee, S. Lee, J. Jang, and T. Park, *"Exact association test for small size sequencing data*", BMC medical genomics 2018. ([Paper](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0344-z))
 
 ### Preprints
-6. J. Lee and G. Chen, *Differentially Private Two-Stage Empirical Risk Minimization and Applications to Individualized Treatment Regime.* ([arXiv](https://arxiv.org/abs/2602.12604))
+6. J. Lee and G. Chen, *Differentially Private Two-Stage Empirical Risk Minimization and Applications to Individualized Treatment Regime.* 2026 ([arXiv](https://arxiv.org/abs/2602.12604)) 
 
 ### Work Experience
 - Biostatistics Intern, Biogen (_June 2024 - August 2024_)
